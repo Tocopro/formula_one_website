@@ -215,6 +215,13 @@ a{
     border-radius: 5px;
     
 }
+#photo_author
+{
+    text-align: center;
+    justify-content: center;
+    background-color: #34eb64;
+}
+
 /*   the media querries for adaptation to different screen sizes this adptation is for 480px and bigger   */
 @media  screen and (min-width: 480px) 
 {
@@ -286,7 +293,6 @@ a{
         font-size: 22px;
     }
 }
-
 
 
 
