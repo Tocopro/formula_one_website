@@ -2,15 +2,15 @@ Following the requirements laid out for the assignment, I designed a simple webp
 Showcase some basics about formula racing technology.
 The html for the website has the following.
 <ul>
-    <li>•	Main body
-    <li>•	Header section
-    <li>•	Navigation section
-    <li>•	An image sections
-    <li>•	An article written describing the purpose of the website
-    <li>•	A second image depicting the formula one Mercedes team racing cars
-    <li>•	A clickable section with three choices
-    <li>•	A subscribers information input with three inputs only first, last name and email.
-    <li>•	A footer section with a brief text 
+    <li>	Main body
+    <li>	Header section
+    <li>	Navigation section
+    <li>	An image sections
+    <li>	An article written describing the purpose of the website
+    <li>	A second image depicting the formula one Mercedes team racing cars
+    <li>	A clickable section with three choices
+    <li>	A subscribers information input with three inputs only first, last name and email.
+    <li>	A footer section with a brief text 
 </ul>
 The main webpage consists of three sections
 The header
