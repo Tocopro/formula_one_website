@@ -1,5 +1,5 @@
 body{
-    /*       webpage background      color */
+    /*       webpage background color */
     background-color: ivory;
     margin: 0;
     width: 100vw;
@@ -189,6 +189,29 @@ a{
 {
     margin-bottom: 20px;
 }
+/*   submit text styling */
+#submitButton
+{
+    position: absolute;
+    right: 600px;
+    font-size: 17px;
+    font-weight: bold;
+}
+/*   submit button styling */
+#button_submit
+{
+    position: absolute;
+    right: 500px;
+    background-color: #cdc7c5;
+    font-size: 17px;
+    border-radius: 5px;
+}
+/*    Reset button styling */
+#reset_button
+{
+    background-color: #cdc7c5;
+    border-radius: 5px;
+}
 /*   the final part at the bottom of the webpage wrapped in a flexbox    */
 #footer-section
 {
@@ -204,6 +227,8 @@ a{
     background-color: white;
     
 }
+/*    wire frame access button which when clicked will take the user to a short video on the summary composition 
+of the wire frame on figma*/
 #wire_frame
 {
     display: flex;
@@ -216,7 +241,7 @@ a{
     border-radius: 5px;
     
 }
-/*    emoji with a hand and finger pointing to the link for webpage wireframe  */
+/*    emoji with a hand and finger pointing to the link for webpage wire frame  */
 #finger_point
 {
     display: flex;
@@ -237,7 +262,7 @@ a{
     background-color: #34eb64;
 }
 
-/*   the media querries for adaptation to different screen sizes this adptation is for 480px and bigger   */
+/*   the media queries for adaptation to different screen sizes this adaptation is for 480px and bigger   */
 @media  screen and (min-width: 480px) 
 {
     /* element tags changes to appeal and fit in smaller screen sizes  */
@@ -275,7 +300,7 @@ a{
     }
    
 }
-/*  the media querries for adaptation to different screen sizes this adptation is for 680px and bigger   */
+/*  the media queries for adaptation to different screen sizes this adaptation is for 680px and bigger   */
 @media screen and (min-width: 680px)
 {
     /*  element tags changes to appeal and fit in bigger screen sizes  */
