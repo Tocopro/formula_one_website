@@ -202,6 +202,7 @@ a{
     padding-right: 10px;
     justify-content: center;
     background-color: white;
+    
 }
 #wire_frame
 {
@@ -215,6 +216,20 @@ a{
     border-radius: 5px;
     
 }
+/*    emoji with a hand and finger pointing to the link for webpage wireframe  */
+#finger_point
+{
+    display: flex;
+    border: solid transparent;
+    width: 40px; 
+    height: 40px;
+    position: absolute;
+    right: 270px;
+    background-color: transparent;
+    float: right;    
+    font-size: 30px;
+}
+/*    the photo is styled in a different html that shares the same link for the CSS file  */
 #photo_author
 {
     text-align: center;
